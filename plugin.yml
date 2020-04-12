@@ -1,8 +1,8 @@
 name: ThurSpecialDrops
 description: SpecialMobDrops
-version: 1.0.0
+version: 2.0.0
 authors: [Thur]
 main: me.thur.specialdrops.Main
 commands:
   tsd:
-    description: Ativar modo debug
+    description: Abrir menu
